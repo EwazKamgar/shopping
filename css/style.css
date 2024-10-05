@@ -1,0 +1,12 @@
+img:hover{
+    border: 3px solid white;
+    
+}
+.things::-webkit-scrollbar{
+    display: none;
+}
+.things{
+    border-bottom: 1px solid #dee2e6;
+}
+
+
